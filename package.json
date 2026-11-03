@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "ria-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/r1-408-check-a-assets-ria-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
